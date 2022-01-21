@@ -1,0 +1,3 @@
+pip install os 
+pip install PILLOW
+pip install pytesseract
